@@ -28,4 +28,4 @@ Btw, Shut up and follow @peterpancil_art on Instagram.
 |Arduino                               |0       |
 |Python                                |0       |
 
-![Screenshot](Screen Shot 2019-04-23 at 3.14.26 AM.png)
+![Screenshot](https://github.com/csci3250-2019/student-1155108774/blob/master/Screen%20Shot%202019-04-23%20at%203.14.26%20AM.png)
