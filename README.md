@@ -12,11 +12,11 @@ Btw, Shut up and follow @peterpancil_art on Instagram.
 * Laugh uncontrollably for no reason
 
 ## **Deadline**
--  [  ]  UGEC
--  [  ]  UGEA
--  [  ]  Big Eng proposal
--  [  ] Github
--  [  ] CSCI2100 programs
+-  [ ]  UGEC
+-  [ ]  UGEA
+-  [ ]  Big Eng proposal
+-  [ ] Github
+-  [ ] CSCI2100 programs
 -  [X] CSCI3250 individual article
 
 ## **Skill**
